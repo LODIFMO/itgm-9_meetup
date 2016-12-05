@@ -1,4 +1,4 @@
-# itgm-9_meetup
+# itgm-9 meetup
 
 ### Presentation
 
